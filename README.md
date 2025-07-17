@@ -67,6 +67,14 @@
 
 ###
 
+<h2 align="left">What I Love to Work On</h2>
+
+###
+
+<p align="left"> 🚗 Autonomous Driving<br><br> 📱 App Development<br><br> 🤖 Artificial Intelligence<br><br> ⚙️ Automation & Robotics<br><br> 🧠 Machine Learning & Deep Learning<br><br> 📷 Computer Vision<br><br> 🌐 Internet of Things (IoT)<br><br> 📡 Connected Systems<br><br> 🚀 Exploring Future Technologies </p> 
+
+###
+
 <!--
 **AngelRosalesContreras/AngelRosalesContreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
