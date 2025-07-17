@@ -75,6 +75,39 @@
 
 ###
 
+<h2 align="left">Connect with me</h2>
+
+###
+
+<div align="left">
+  <!-- Correo -->
+  <a href="mailto:angel.r.c.utt.4@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="http://www.linkedin.com/in/angel-rosales-contreras-146298124" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/angel.rosalescontreras.9" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+
+  <!-- Instagram (principal) -->
+  <a href="https://www.instagram.com/angel.dark.zaza?igsh=MWxhcGh1bTd2OXpxMQ==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+  </a>
+
+  <!-- Instagram (paisajes/personal) -->
+  <a href="https://www.instagram.com/zazanathimnathramn/profilecard/?igsh=dWtpZ2d3cjV0bjI1" target="_blank" title="Instagram personal de paisajes">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo personal" />
+  </a>
+</div>
+
+
+###
 <!--
 **AngelRosalesContreras/AngelRosalesContreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
