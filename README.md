@@ -10,9 +10,10 @@
 
 ###
 
-<p align="left">🌱 I am an engineer in Tecnotronics passionate about automation processes and I am currently a student at the National Polytechnic Institute, studying Engineering in Artificial Intelligence. <br><br>
-📚 I am currently learning more about autonomous cars and drones. <br><br>🎯 
-I am looking to collaborate on projects that have a significant impact in my area of interest and maybe get to know a new area.</p>
+<p align="left">
+🦾 I am an engineer in Tecnotronics passionate about automation processes and I am currently a student at the National Polytechnic Institute, studying Engineering in Artificial Intelligence. <br><br>
+⚙️ I am currently learning more about autonomous cars and drones. <br><br>
+🤝🤖 I am looking to collaborate on projects that have a significant impact in my area of interest and maybe get to know a new area.</p>
 
 ###
 
