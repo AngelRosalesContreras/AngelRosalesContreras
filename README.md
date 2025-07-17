@@ -106,8 +106,50 @@
   </a>
 </div>
 
+###
+
+<h2 align="left">My Stats</h2>
 
 ###
+<div align="center">
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=AngelRosalesContreras&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelRosalesContreras&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AngelRosalesContreras&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AngelRosalesContreras&theme=darkhub&no-frame=false&no-bg=true&margin-w=15" height="150" alt="trophies" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelRosalesContreras&theme=react-dark&hide_border=false" width="100%" alt="activity graph" />
+  
+</div>
+
+###
+
 <!--
 **AngelRosalesContreras/AngelRosalesContreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
