@@ -1,6 +1,8 @@
 ## Hi there 👋
 <h1 align="center">Hello Guys! Hi 👋, I'm ZaZa </h1>
 
+<h3 align="center">Engineer in Technotronics and student at the National Polytechnic Institute.</h4>
+
 <!--
 **AngelRosalesContreras/AngelRosalesContreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
